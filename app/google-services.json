@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668255181934",
+    "firebase_url": "https://bloodpressbodytemperature-default-rtdb.firebaseio.com",
+    "project_id": "bloodpressbodytemperature",
+    "storage_bucket": "bloodpressbodytemperature.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668255181934:android:5076fc4eeff7dbf7025a7f",
+        "android_client_info": {
+          "package_name": "com.kamila.bpttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668255181934-10al22ogqmc85fsple68keet0d7648oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQCyvmLq3-8rxLkdgmMqxWQj8xAJxLgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668255181934-10al22ogqmc85fsple68keet0d7648oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
